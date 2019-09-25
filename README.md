@@ -24,13 +24,13 @@ Further information and a retrospective on the 14 informatiCup competitions sinc
 
 ## Aufgabenstellung / Task description
 
-Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://gi.de).
+Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/raw/master/Pandemie.pdf).
 
 ![Pandemie!](https://user-images.githubusercontent.com/600435/65581587-08515f00-df7c-11e9-942e-5afbd695014c.png)
 
 ~
 
-The task this year is [Pandemie!](https://gi.de).
+The task this year is [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/raw/master/Pandemie.pdf).
 
 ## Preisgeld / Price money
 
