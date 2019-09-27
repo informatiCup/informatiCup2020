@@ -78,13 +78,13 @@ The informatiCup targets enrolled students throughout all fields of study and se
 
 ## Fragen / FAQs
 
-Wenn Sie Fragen zum Wettbewerb haben oder die bereits beantworteten Fragen einsehen möchten nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2019/issues) dieses Repositories.
+Wenn Sie Fragen zum Wettbewerb haben oder die bereits beantworteten Fragen einsehen möchten nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2020/issues) dieses Repositories.
 
 Aktuelle Neuigkeiten gibt es auch auf Twitter von [@informatiCup](https://twitter.com/informatiCup).
 
 ~
 
-If you should have any questions or like to see what questions have already been answered have a look at the [issues](https://github.com/InformatiCup/InformatiCup2019/issues) of this repository.
+If you should have any questions or like to see what questions have already been answered have a look at the [issues](https://github.com/InformatiCup/InformatiCup2020/issues) of this repository.
 
 Current news is also available on Twitter from [@informatiCup](https://twitter.com/informatiCup).
 
