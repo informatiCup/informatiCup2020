@@ -50,6 +50,13 @@ Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktiv
 
 The informatiCup sponsors will again offer attractive cash prizes this year.
 
+![Amazon](https://user-images.githubusercontent.com/600435/66396257-a95b0380-e9d9-11e9-85f4-46e800f31370.png)
+![PPI](https://user-images.githubusercontent.com/600435/66396287-bf68c400-e9d9-11e9-9492-7c5ea5e3b2fa.png)
+![Netlight](https://user-images.githubusercontent.com/600435/66396321-cf80a380-e9d9-11e9-8764-656c53487c68.png)
+![AutoUni](https://user-images.githubusercontent.com/600435/66396357-e0c9b000-e9d9-11e9-8431-f9efbb33ef79.png)
+![Volkswagen](https://user-images.githubusercontent.com/600435/66396412-fe971500-e9d9-11e9-95f3-f1a99584318a.png)
+![GitHub](https://user-images.githubusercontent.com/600435/66396435-0b1b6d80-e9da-11e9-8a8a-6a161afb62e7.png)
+
 ## Informatikwissen ist universell - Zeigen Sie es uns! / Software is eating the world - Let's prove it!
 
 Sie sind kreativ, haben Visionen und sind nicht allein! Gefragt sind umfassende Problemlösungen die in kommunikativen Prozessen entwickelt werden. Der informatiCup ist kein reiner Programmierwettbewerb. Die Aufgabenstellung erfordert theoretisches Wissen, die Fähigkeit zur wissenschaftlichen Problemlösung und moderne Präsentationstechniken. Kopf- und Handarbeit sind gefragt. Machen Sie mit! Attraktive Preise winken den Gewinnern.
