@@ -1,4 +1,4 @@
-![informatiCup](https://user-images.githubusercontent.com/600435/65581872-8e6da580-df7c-11e9-8b27-a23048fed73b.jpg)
+![informatiCup2](https://user-images.githubusercontent.com/600435/66395975-fe4a4a00-e9d8-11e9-9b2b-1e24d52236f2.jpg)
 
 # informatiCup 2020 - Pandemie!
 
