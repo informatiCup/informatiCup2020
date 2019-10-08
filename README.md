@@ -30,6 +30,8 @@ Der InformatiCup 2020 wird von Amazon mit einem [AWS Educate Classroom](https://
 
 We are privileged to have Amazon supporting the InformatiCup 2020 with an [AWS Educate Classroom](https://aws.amazon.com/blogs/publicsector/introducing-aws-educate-classrooms/) for competition participants. This includes 150$ AWS budget per capita plus free tier resources for, for example, [AWS Lambda](https://aws.amazon.com/lambda/features/). You will be enrolled by request after your registration for participation in the InformatiCup2020.
 
+![aws_educate_logo](https://user-images.githubusercontent.com/600435/66395628-37ce8580-e9d8-11e9-94f7-018629a87ffc.png)
+
 ## Aufgabenstellung / Task description
 
 Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/blob/master/Pandemie.pdf).
