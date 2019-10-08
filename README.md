@@ -46,9 +46,17 @@ The task this year is [Pandemie!](https://github.com/InformatiCup/InformatiCup20
 
 Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktive Geldpreise.
 
+1. Platz 4000 € ([Amazon](https://amazon.jobs/de))
+2. Platz 2000 € ([PPI AG](https://www.ppi.de/))
+3. Platz 1000 € ([Netlight](https://www.netlight.com/))
+
 ~
 
 The informatiCup sponsors will again offer attractive cash prizes this year.
+
+1. Place 4000 € ([Amazon](https://amazon.jobs/de))
+2. Place 2000 € ([PPI AG](https://www.ppi.de/))
+3. Place 1000 € ([Netlight](https://www.netlight.com/))
 
 ![Amazon](https://user-images.githubusercontent.com/600435/66396257-a95b0380-e9d9-11e9-85f4-46e800f31370.png)
 ![PPI](https://user-images.githubusercontent.com/600435/66396287-bf68c400-e9d9-11e9-9492-7c5ea5e3b2fa.png)
