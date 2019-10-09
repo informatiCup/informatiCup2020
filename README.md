@@ -1,4 +1,4 @@
-![informatiCup](https://user-images.githubusercontent.com/600435/65581872-8e6da580-df7c-11e9-8b27-a23048fed73b.jpg)
+![informatiCup2](https://user-images.githubusercontent.com/600435/66395975-fe4a4a00-e9d8-11e9-9b2b-1e24d52236f2.jpg)
 
 # informatiCup 2020 - Pandemie!
 
@@ -22,9 +22,21 @@ Further information and a retrospective on the 14 informatiCup competitions sinc
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118630/4ea5533c-8b1d-11e6-8496-a796adce2001.png)
 
+## AWS Educate Classrooms
+
+Der InformatiCup 2020 wird von Amazon mit einem [AWS Educate Classroom](https://aws.amazon.com/blogs/publicsector/introducing-aws-educate-classrooms/) für Wettbewerbsteilnehmer unterstützt. Darin enthalten sind 150$ AWS-Budget und Free-Tier-Ressourcen für, zum Beispiel, [AWS Lambda](https://aws.amazon.com/lambda/features/). Ihre Zugangsdaten erhalten Sie auf Wunsch mit Ihrer Anmeldung zum InformatiCup.
+
+~
+
+We are privileged to have Amazon supporting the InformatiCup 2020 with an [AWS Educate Classroom](https://aws.amazon.com/blogs/publicsector/introducing-aws-educate-classrooms/) for competition participants. This includes 150$ AWS budget per capita plus free tier resources for, for example, [AWS Lambda](https://aws.amazon.com/lambda/features/). You will be enrolled by request after your registration for participation in the InformatiCup2020.
+
+![aws_educate_logo](https://user-images.githubusercontent.com/600435/66395628-37ce8580-e9d8-11e9-94f7-018629a87ffc.png)
+
 ## Aufgabenstellung / Task description
 
 Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/blob/master/Pandemie.pdf).
+
+Das Kommandozeilenwerkzeug aus der Aufgabenstellung gibt es als [Release](https://github.com/InformatiCup/InformatiCup2020/releases/latest) in diesem Repo.
 
 ![Pandemie!](https://user-images.githubusercontent.com/600435/65581587-08515f00-df7c-11e9-942e-5afbd695014c.png)
 
@@ -32,13 +44,30 @@ Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://github.com/Informati
 
 The task this year is [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/blob/master/Pandemie.pdf).
 
+The command-line tool is available as a [Release](https://github.com/InformatiCup/InformatiCup2020/releases/latest) in this repository.
+
 ## Preisgeld / Price money
 
 Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktive Geldpreise.
 
+1. Platz 4000 € ([Amazon](https://amazon.jobs/de))
+2. Platz 2000 € ([PPI AG](https://www.ppi.de/))
+3. Platz 1000 € ([Netlight](https://www.netlight.com/))
+
 ~
 
 The informatiCup sponsors will again offer attractive cash prizes this year.
+
+1. Place 4000 € ([Amazon](https://amazon.jobs/de))
+2. Place 2000 € ([PPI AG](https://www.ppi.de/))
+3. Place 1000 € ([Netlight](https://www.netlight.com/))
+
+![Amazon](https://user-images.githubusercontent.com/600435/66396257-a95b0380-e9d9-11e9-85f4-46e800f31370.png)
+![PPI](https://user-images.githubusercontent.com/600435/66396287-bf68c400-e9d9-11e9-9492-7c5ea5e3b2fa.png)
+![Netlight](https://user-images.githubusercontent.com/600435/66396321-cf80a380-e9d9-11e9-8764-656c53487c68.png)
+![AutoUni](https://user-images.githubusercontent.com/600435/66396357-e0c9b000-e9d9-11e9-8431-f9efbb33ef79.png)
+![Volkswagen](https://user-images.githubusercontent.com/600435/66396412-fe971500-e9d9-11e9-95f3-f1a99584318a.png)
+![GitHub](https://user-images.githubusercontent.com/600435/66396435-0b1b6d80-e9da-11e9-8a8a-6a161afb62e7.png)
 
 ## Informatikwissen ist universell - Zeigen Sie es uns! / Software is eating the world - Let's prove it!
 
