@@ -36,11 +36,15 @@ We are privileged to have Amazon supporting the InformatiCup 2020 with an [AWS E
 
 Die Aufgabenstellung in diesem Jahr ist [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/blob/master/Pandemie.pdf).
 
+Das Kommandozeilenwerkzeug aus der Aufgabenstellung gibt es als [Release](https://github.com/InformatiCup/InformatiCup2020/releases/latest) in diesem Repo.
+
 ![Pandemie!](https://user-images.githubusercontent.com/600435/65581587-08515f00-df7c-11e9-942e-5afbd695014c.png)
 
 ~
 
 The task this year is [Pandemie!](https://github.com/InformatiCup/InformatiCup2020/blob/master/Pandemie.pdf).
+
+The command-line tool is available as a [Release](https://github.com/InformatiCup/InformatiCup2020/releases/latest) in this repository.
 
 ## Preisgeld / Price money
 
