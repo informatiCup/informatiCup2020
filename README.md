@@ -118,3 +118,11 @@ If you should have any questions or like to see what questions have already been
 Current news is also available on Twitter from [@informatiCup](https://twitter.com/informatiCup).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
+
+## Results from previous informatiCup challenges / Resultate vergangener Wettbewerbe
+
+If you like to get inspired on how documentation for successful informatiCup submissions look like  [check out](https://github.com/InformatiCup/) the results from previous years.
+
+~
+
+Wenn ihr eine Idee bekommen möchtet, wie die Dokumentation von Gewinner-Teams der letzten Jahre aussieht, [schaut euch](https://github.com/InformatiCup/) die Ergebnisse der letzten Jahre an.
