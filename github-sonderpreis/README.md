@@ -20,7 +20,7 @@ Unser wichtigstes Ziel ist, dass möglich viele Lösungen hier vertreten sind, d
 * eine gute "virtuelle Hausmatte" - README.md, die beschreibt, [was das Projekt macht, wie man es selbst nutzen und eventuell sich beteiligen kann](https://opensource.guide/starting-a-project/#writing-a-readme)
 * eine möglichst gutes [Community-Profile](https://github.com/github/opensource.guide/community)
 
-Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/pages/).
+Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/pages/) und den kreativen Einsatz von [GitHub Actions](https://github.com/features/actions).
 
 # Timeline
 
