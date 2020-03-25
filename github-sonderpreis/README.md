@@ -37,4 +37,4 @@ Viel Erfolg vom GitHub-Team
 
 [@jonico](https://github.com/jonico) und [@lillisebe](https://github.com/lillisebe)
 
-:octocat :heart:
+:octocat: :heart:
