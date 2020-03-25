@@ -6,7 +6,7 @@ Wie jedes Jahr vergibt GitHub einen Sonderpreis auf dem InformatiCup.
 
 Unser Hauptziel ist es, dass eure Einreichungen nicht in einer virtuellen, privaten Schublade verrotten, sondern möglichst der gesamten EntwicklerInnen-Community zur Verfügung stehen.
 Daher bitten wir euch, falls ihr es noch nicht getan habt, eure Lösung, unabhängig davon ob ihr in die Endrunde gekommen seid oder nicht, in die untere Tabelle einzutragen.
-Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://github.com/informatiCup/informatiCup2020/edit/master/github-sonderpreis/README.md)
+Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://github.com/informatiCup/informatiCup2020/edit/master/github-sonderpreis/README.md).
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -19,7 +19,8 @@ Unser wichtigstes Ziel ist, dass möglich viele Lösungen hier vertreten sind, d
 * eine gute Klassifizierung des Repositories mittels [Topics](https://github.blog/2017-01-31-introducing-topics/)
 * eine gute "virtuelle Hausmatte" - README.md, die beschreibt, [was das Projekt macht, wie man es selbst nutzen und eventuell sich beteiligen kann](https://opensource.guide/starting-a-project/#writing-a-readme)
 * eine möglichst gutes [Community-Profile](https://github.com/github/opensource.guide/community)
-* Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/pages/)
+
+Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/pages/).
 
 # Timeline
 
@@ -34,4 +35,6 @@ Viel Erfolg vom GitHub-Team
 
 ![image](https://user-images.githubusercontent.com/1872314/77528545-6fe65980-6e8e-11ea-969e-df33549d9bab.png)
 
-@jonico @lillisebe
+[@jonico](https://github.com/jonico) und [@lillisebe](https://github.com/lillisebe)
+
+:octocat :heart:
