@@ -11,6 +11,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
 | RWTH Aachen| [Strohristik](https://github.com/couch-consulting/ic20_heilung)    |              |@ThoreKr @Oswaldbob                              |                                                                                           |
+| Leibniz Universität Hannover		 | [Team Stream](https://github.com/jasZnerol/InformatiCup2020)		  |				 | @jasZnerol @ChristophScn @codebro634			   | TEAM STREAM! TEAM STREAM! TEAM STREAM! 
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 # Bewertungskriterien für den Sonderpreis
