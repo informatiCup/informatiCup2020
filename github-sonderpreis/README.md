@@ -14,6 +14,9 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 | Leibniz Universität Hannover		 | [Team Stream](https://github.com/jasZnerol/InformatiCup2020)		  |				 | @jasZnerol @ChristophScn @codebro634			   | TEAM STREAM! TEAM STREAM! TEAM STREAM! 
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
+
+Selbst wenn ihr momentan keine Zeit habt, euer Repository "aufzuhübschen", würden wir uns über jede weitere Verlinkung und Publizierung auf GitHub freuen, damit die Beiträge nicht verloren gehen, und in der nächsten Runde des [Arctic Code Vault-Projects](https://www.youtube.com/watch?v=fzI9FNjXQ0o) für die Nachwelt mindestens 1000 Jahre archiviert werden.
+
 # Bewertungskriterien für den Sonderpreis
 
 Unser wichtigstes Ziel ist, dass möglich viele Lösungen hier vertreten sind, damit alle von dem gemeinsamen Wissen profitieren können. Aus diesem Grunde ist unser Hauptbewertungskriterium die Auffindbarkeit und Nutzbarkeit des Repository-Inhaltes. Dies beinhaltet unter anderem
