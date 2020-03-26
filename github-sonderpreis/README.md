@@ -25,7 +25,8 @@ Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/
 
 # Timeline
 
-Da wir erst in der Woche der Endrunde die Bewertungskriterien präzisiert haben, geben wir allen teilnehmenden Teams des InformatiCups (nicht nur Endrunde), die Möglichkeit bis Freitag, 3. April 2020 einen [Pull-Request](https://github.com/informatiCup/informatiCup2020/edit/master/github-sonderpreis/README.md) mit Informationen zu ihrem GitHub-Projekt zu erstellen.
+Da wir erst in der Woche der Endrunde die Bewertungskriterien präzisiert haben, geben wir allen teilnehmenden Teams des InformatiCups (nicht nur Endrunde), die Möglichkeit bis Freitag, 3. April 2020 einen [Pull-Request](https://github.com/informatiCup/informatiCup2020/edit/master/github-sonderpreis/README.md) mit Informationen zu ihrem GitHub-Projekt zu erstellen. Als Bewertungsgrundlage gilt der Zustand der GitHub-Repositories am 4. April 2020.
+
 Das Gewinner-Team wird in der zweiten April-Woche bekannt gegeben.
 
 # Fragen
