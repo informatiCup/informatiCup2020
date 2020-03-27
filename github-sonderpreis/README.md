@@ -12,6 +12,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
 | RWTH Aachen| [Strohristik](https://github.com/couch-consulting/ic20_heilung)    |              |@ThoreKr @Oswaldbob                              |                                                                                           |
 | Leibniz Universität Hannover		 | [Team Stream](https://github.com/jasZnerol/InformatiCup2020)		  |				 | @jasZnerol @ChristophScn @codebro634			   | TEAM STREAM! TEAM STREAM! TEAM STREAM! 
+| Leibniz Universität Hannover | [LeibnizCore i4](https://github.com/marvinsxtr/informaticup-2020-pandemie) | [slides](https://drive.google.com/file/d/1uAJi7MHMPAULYvKBf9qF5RkOmEW6ZFbq/view?usp=sharing) | @marvinsxtr @Gehim12 @R-Uwe-N
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 
