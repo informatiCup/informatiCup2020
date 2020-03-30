@@ -1,0 +1,96 @@
+* {
+  font-family: sans-serif; }
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  font-size: 0; }
+
+p {
+  margin: 0; }
+
+input[type="checkbox"] {
+  vertical-align: middle; }
+
+div.container {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%); }
+
+div.icv-games-container table.header {
+  position: absolute;
+  padding: 4px 7px;
+  z-index: 2;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #232627;
+  font-size: 10pt;
+  border-collapse: collapse; }
+  div.icv-games-container table.header td {
+    padding: 4px 10px 5px 12px;
+    color: #fff;
+    border: 1px solid #fff; }
+    div.icv-games-container table.header td.button {
+      cursor: pointer; }
+      div.icv-games-container table.header td.button:hover {
+        background: #535a5d; }
+div.icv-games-container div.game {
+  display: inline-block;
+  width: 50%; }
+
+div.icv-game-container {
+  position: relative;
+  width: 100%;
+  background-image: url(../img/map.jpg);
+  background-size: 100%; }
+  div.icv-game-container div.contents {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: #fff; }
+    div.icv-game-container div.contents div.status {
+      position: absolute;
+      padding: 6px 7px;
+      bottom: 10px;
+      left: 10px;
+      font-size: 10pt;
+      color: #fff; }
+    div.icv-game-container div.contents div.icon {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2px;
+      font-size: 12px;
+      line-height: 1; }
+      div.icv-game-container div.contents div.icon img {
+        width: 100%; }
+      div.icv-game-container div.contents div.icon.city {
+        position: absolute;
+        transform: translate(-50%, -50%); }
+      div.icv-game-container div.contents div.icon.tint {
+        z-index: 2;
+        filter: brightness(0.5) sepia(1) hue-rotate(140deg) saturate(6); }
+    div.icv-game-container div.contents div.game-icons {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      max-width: 50%;
+      transform: translateX(-50%); }
+    div.icv-game-container div.contents div.outcome {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      transition: opacity 2s ease; }
+      div.icv-game-container div.contents div.outcome img {
+        width: 12vw;
+        opacity: 0.9; }
+
+/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "yapf",
+    "go.inferGopath": false
+}

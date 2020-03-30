@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>informatiCup 2020 Visualizer</title>
+	<script src="static/lib/vue/vue.js"></script>
+  <link rel="stylesheet" media="screen" href="static/css/app.css"/>
+</head>
+
+<body>
+  <script type="text/x-template" id="icv-games-template">
+    <div class="icv-games-container">
+      <table v-if="busy" class="header">
+        <tr>
+          <td>{{ status }}</td>
+        </tr>
+      </table>
+      <table v-if="!busy" class="header">
+        <tr>
+          <td class="button" @click="onPreviousStateClick">‹</td>
+          <td>Round: {{ round }}</td>
+          <td class="button" @click="onNextStateClick">›</td>
+        </tr>
+      </table>
+      <div class="game" v-for="game in games">
+        <icv-game :index="game.index" :states="game.states" :busy="busy"></icv-game>
+      </div>
+    </div>
+  </script>
+  <script type="text/x-template" id="icv-game-template">
+    <div ref="container" class="icv-game-container" :style="containerStyle">
+      <div class="contents">
+        <div v-if="!busy && states.length === 0" class="status">Empty.</div>
+        <div v-if="!busy && states.length > 0" class="status">
+          <p>State: {{ index + 1 }}</p>
+          <p>Points: {{ state.points }}</p>
+          <p>Population: {{ (population / initialPopulation * 100).toFixed(2) }}%</p>
+        </div>
+        <div v-if="!busy" v-for="icon in cityIcons" :style="icon.style" :title="icon.title" :class="icon.classes">
+          <div><img :src="`static/img/icons/${icon.name}.png`"></div>
+          <div>{{ icon.text }} </div>
+        </div>
+        <div v-if="!busy" class="game-icons">
+          <div v-for="icon in gameIcons" :style="icon.style" :title="icon.title" class="icon">
+            <div><img :src="`static/img/icons/${icon.name}.png`"></div>
+            <div>{{ icon.text }} </div>
+          </div>
+        </div>
+        <transition name="fade">
+          <div :style="{ opacity: state.outcome === 'win' || state.outcome === 'loss' ? 0.9 : 0 }" class="outcome">
+            <img :src="`static/img/outcome/${state.outcome}.png`">
+          </div>
+        </transition>
+      </div>
+    </div>
+  </script>
+  <div class="container">
+    <div id="app">
+      <icv-games></icv-games>
+    </div>
+  </div>
+</body>
+<script src="static/js/app.js"></script>
+
+</html>
