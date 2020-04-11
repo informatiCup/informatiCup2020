@@ -17,6 +17,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 | FH Nordakademie | [Team BurningTrain](https://github.com/sebastianvolk/informatiCup2020) | | @MaikG90 @mirweis @danial0 @sebastianvolk | Stay healthy!                                                                               |
 | FH Nordakademie   | ["urban parakeet"](https://github.com/MarkL4YG/informaticup-2020)                          |See [readMe.md](https://github.com/MarkL4YG/informaticup-2020/blob/master/readMe.md)    |@mzietlow @genius42 @timgurke @markl4yg                                     |Thank you for the challenge!                                                                               |
 | DHBW Karlsruhe  | [Pandemie](https://github.com/nicosc77/pandemie)| [Dokumentation](https://github.com/nicosc77/pandemie/blob/master/Dokumentation.pdf)     |@nicosc77 @banan4x @sdan002 | Immer schön Hände waschen!
+| HS Pforzheim/HTWG Konstanz | [Contagio Caleo](https://github.com/DOSlp24/Pandemie) | | @DOSlp24 | Don't let Admiral Trips destroy your day! |
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 
