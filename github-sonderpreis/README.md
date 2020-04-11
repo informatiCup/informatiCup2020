@@ -16,6 +16,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 | TU Braunschweig | [Pandemie Inc.](https://github.com/SuperNascher/Pandemie-Inc) | [slides](https://github.com/SuperNascher/Pandemie-Inc/blob/master/Presentation.pptx) | @brownbeer @fysch @SuperNascher | [Documentation](https://github.com/SuperNascher/Pandemie-Inc/blob/master/Documentation.pdf) |
 | FH Nordakademie | [Team BurningTrain](https://github.com/sebastianvolk/informatiCup2020) | | @MaikG90 @mirweis @danial0 @sebastianvolk | Stay healthy!                                                                               |
 | FH Nordakademie   | ["urban parakeet"](https://github.com/MarkL4YG/informaticup-2020)                          |See [readMe.md](https://github.com/MarkL4YG/informaticup-2020/blob/master/readMe.md)    |@mzietlow @genius42 @timgurke @markl4yg                                     |Thank you for the challenge!                                                                               |
+| HS Pforzheim/HTWG Konstanz | [Contagio Caleo](https://github.com/DOSlp24/Pandemie) | | @DOSlp24 | Don't let Admiral Trips destroy your day! |
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 
