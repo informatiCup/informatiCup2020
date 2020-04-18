@@ -10,6 +10,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
+| DHBW Karlsruhe		 | [Team Elemental Discharge](https://github.com/FruitGLemon/InformatiCup-2020)		  |		[Präsentation](https://github.com/FruitGLemon/InformatiCup-2020/blob/master/IC2020%20Final%20Presentation_Team_Elemental_Discharge.pptx)		 | @NoSkillSwagger @FruitGLemon @rouvenR			   | :)
 | RWTH Aachen| [Strohristik](https://github.com/couch-consulting/ic20_heilung)    |              |@ThoreKr @Oswaldbob                              |                                                                                           |
 | Leibniz Universität Hannover		 | [Team Stream](https://github.com/jasZnerol/InformatiCup2020)		  |				 | @jasZnerol @ChristophScn @codebro634			   | TEAM STREAM! TEAM STREAM! TEAM STREAM! 
 | Leibniz Universität Hannover | [LeibnizCore i4](https://github.com/marvinsxtr/informaticup-2020-pandemie) | [slides](https://drive.google.com/file/d/1uAJi7MHMPAULYvKBf9qF5RkOmEW6ZFbq/view?usp=sharing) | @marvinsxtr @Gehim12 @R-Uwe-N
