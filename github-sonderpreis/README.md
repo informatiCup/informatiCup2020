@@ -19,6 +19,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 | FH Nordakademie   | ["urban parakeet"](https://github.com/MarkL4YG/informaticup-2020)                          |See [readMe.md](https://github.com/MarkL4YG/informaticup-2020/blob/master/readMe.md)    |@mzietlow @genius42 @timgurke @markl4yg                                     |Thank you for the challenge!                                                                               |
 | DHBW Karlsruhe  | [Pandemie](https://github.com/nicosc77/pandemie)| [Dokumentation](https://github.com/nicosc77/pandemie/blob/master/Dokumentation.pdf)     |@nicosc77 @banan4x @sdan002 | Immer schön Hände waschen!
 | HS Pforzheim/HTWG Konstanz | [Contagio Caleo](https://github.com/DOSlp24/Pandemie) | | @DOSlp24 | Don't let Admiral Trips destroy your day! |
+| FH Nordakademie   | [GitHub Link](https://github.com/jonas-peeters/InformatiCUP2020)                          |[Theoretische Ausarbeitung](https://github.com/jonas-peeters/InformatiCUP2020/blob/master/Theorie/Theorie.pdf)    |@jonas-peeters                                     | |
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 
