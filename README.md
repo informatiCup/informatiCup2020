@@ -2,7 +2,7 @@
 
 # informatiCup 2020 - Pandemie!
 
-Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](http://www.informaticup.de) - im Jahr 2020 bereits im 15. Jahr in Folge.
+Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2020 bereits im 15. Jahr in Folge.
 
 Der informatiCup 2020 widmet sich der Aufgabe, die Menschheit vor der Auslöschung durch eine Pandemie zu retten.
 
@@ -12,7 +12,7 @@ Weitere Infos und einen Rückblick auf die 14 Wettbewerbsrunden seit dem Jahr 20
 
 ~
 
-The [German Informatics Society](https://gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2020 for the 15th consecutive time.
+The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2020 for the 15th consecutive time.
 
 The informatiCup 2020 is dedicated to the task of saving humanity from extinction through a pandemic.
 
