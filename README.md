@@ -8,7 +8,7 @@ Der informatiCup 2020 widmet sich der Aufgabe, die Menschheit vor der Auslöschu
 
 Für den Schutz gegen Keime sowie für deren Bekämpfung existieren eine Reihe von möglichen Maßnahmen. Bei einer Quarantäne werden infizierte Organismen isoliert, um die weitere Ausbreitung von Keimen zu verhindern. Impfungen aktivieren das Immunsystem gegen spezifische Keime und beugen so Infektionen vor. Arzneimittel wie zum Beispiel Virostatika oder Antibiotika hemmen die Vermehrung von Keimen oder töten diese sogar ab. Viele gefährliche Krankheiten wie Cholera, Ebola oder Masern erfordern die effiziente Auswahl und effektive Anwendung möglicher Gegenmaßnahmen. In Form eines rundenbasierten Spiels könnt Ihr in diesem Jahr beim informatiCup die Welt retten!
 
-Weitere Infos und einen Rückblick auf die 14 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen  informatiCup-Webseite](http://www.informaticup.de).
+Weitere Infos und einen Rückblick auf die 14 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen  informatiCup-Webseite](https://informaticup.github.io/).
 
 ~
 
@@ -18,7 +18,7 @@ The informatiCup 2020 is dedicated to the task of saving humanity from extinctio
 
 There are a number of possible measures to protect against and control germs. In a quarantine, infected organisms are isolated to prevent the further spread of germs. Vaccinations activate the immune system against specific germs and thus prevent infections. Medicines such as antivirals or antibiotics inhibit the multiplication of germs or even kill them. Many dangerous diseases such as cholera, Ebola or measles require the efficient selection and effective use of possible countermeasures. In the form of a turn-based game you can save the world this year at the informatiCup!
 
-Further information and a retrospective on the 14 informatiCup competitions since 2005 are available on the [official informatiCup website](http://www.informaticup.de).
+Further information and a retrospective on the 14 informatiCup competitions since 2005 are available on the [official informatiCup website](https://informaticup.github.io/).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118630/4ea5533c-8b1d-11e6-8496-a796adce2001.png)
 
