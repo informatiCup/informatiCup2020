@@ -1,5 +1,14 @@
 ![informatiCup2](https://user-images.githubusercontent.com/600435/66395975-fe4a4a00-e9d8-11e9-9b2b-1e24d52236f2.jpg)
 
+## Most recent InformatiCup / aktueller InformatiCup
+
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2021).
+
+~
+
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2021) gehostet.
+
+
 # informatiCup 2020 - Pandemie!
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2020 bereits im 15. Jahr in Folge.
