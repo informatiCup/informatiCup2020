@@ -2,11 +2,11 @@
 
 ## Most recent InformatiCup / aktueller InformatiCup
 
-The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2021).
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2022).
 
 ~
 
-Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2021) gehostet.
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2022) gehostet.
 
 
 # informatiCup 2020 - Pandemie!
