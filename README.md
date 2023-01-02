@@ -8,6 +8,13 @@ The current InformatiCup is hosted in [this repo](https://github.com/InformatiCu
 
 Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2023) gehostet.
 
+# This Repository / Dieses Repository
+
+Der Quelltext in diesem Repository ist vor allem historisch relevant und wird nicht mehr gepflegt, dies bedeutet dass u.a. bekannte Sicherheitslücken [\[1\]](https://github.com/advisories/GHSA-6vm3-jj99-7229) [\[2\]](https://github.com/advisories/GHSA-r88r-gmrh-7j83) nicht geschlossen werden.
+
+~
+
+The source code contained in this repository has mostly historic value. Thus, no further work will be done including fixing known security vulnurabilities [\[1\]](https://github.com/advisories/GHSA-6vm3-jj99-7229) [\[2\]](https://github.com/advisories/GHSA-r88r-gmrh-7j83).
 
 # informatiCup 2020 - Pandemie!
 
